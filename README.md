@@ -30,3 +30,5 @@
 
 ![пример](example.jpeg)
 
+![пример](example2.jpeg)
+
